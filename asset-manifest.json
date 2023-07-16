@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compound-component-pattern/static/css/main.b2ec770e.css",
+    "main.js": "/compound-component-pattern/static/js/main.01cd61c7.js",
+    "index.html": "/compound-component-pattern/index.html",
+    "main.b2ec770e.css.map": "/compound-component-pattern/static/css/main.b2ec770e.css.map",
+    "main.01cd61c7.js.map": "/compound-component-pattern/static/js/main.01cd61c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ec770e.css",
+    "static/js/main.01cd61c7.js"
+  ]
+}
